@@ -1,0 +1,32 @@
+.selecao {
+    width:50%;
+    max-width:1120px ;
+    height: 20vh;
+    margin:0 auto;
+    margin-top: 0;
+    display: flex;
+    align-items:center;
+    justify-content:space-between ;
+    background-color:#fffbfb;
+    border-radius: 25px;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.pesquisa button {
+    background-color:6495ED;
+    margin-right:50px;
+    margin-left:500px;
+    width:30%;
+    justify-content:space-between ;
+    font-size: 32px;
+    border-radius: 8px;
+}
+ 
+.veiculos {
+background-color: #116fbf;
+width:100%;
+height: 100vh;
+
+}
+
